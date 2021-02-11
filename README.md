@@ -20,9 +20,9 @@
   <a href="#"><img src="https://badges.pufler.dev/visits/shymarrai/shymarrai"></a> hipsters and nerds have come here o/
 </p>
 
-
+<a href="mailto:icestonebruno@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-
+</a>
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=shymarrai&show_icons=true" alt="brunogomes"/> 
