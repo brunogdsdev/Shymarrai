@@ -7,10 +7,12 @@
 - 🤔 I’m looking for help with JavaScript, Flask and Python
 
 
-<a href="https://www.linkedin.com/in/bruno-gomes-code/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="brunogomes" height="20" width="20" />
+<a href="https://www.linkedin.com/in/bruno-gomes-code/" target="blank"><img align="center"  alt="brunogomes" height="20" width="20" />
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/brunofernandog/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="brunogomes" height="20" width="20" />
+&nbsp;
+&nbsp;
+<a href="https://www.instagram.com/brunofernandog/" target="blank"><img align="center"  alt="brunogomes" height="20" width="20" />
  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
