@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate Quizlee from CS50 - Harvardx 2021, Project Final by Introduction Computer Science
 - 🤔 I’m looking for help with JavaScript, Flask and Python
 
-
+<p align='center'>
 <a href="https://www.linkedin.com/in/bruno-gomes-code/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -15,14 +15,19 @@
 <a href="https://www.instagram.com/brunofernandog/" target="_blank">
  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+&nbsp;
+&nbsp;
+<a href="mailto:icestonebruno@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+</p>
+
 
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/shymarrai/shymarrai"></a> hipsters and nerds have come here o/
 </p>
 
-<a href="mailto:icestonebruno@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=shymarrai&show_icons=true" alt="brunogomes"/> 
