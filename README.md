@@ -1,4 +1,4 @@
-<h1 align="center">Hi dear 🤖, I'm Bruno Gomes 👨‍💻</h1>
+<h1 align="center">Hi dear, I'm Bruno Gomes 👨‍💻</h1>
 <h3 align="center">A Web Developer focused on Front End</h3>
 
 - 🤑 I’m currently working on Ellca Locações e Serviços
@@ -23,7 +23,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/shymarrai/shymarrai"></a> Nerds have come here o/
+  <a href="#"><img src="https://badges.pufler.dev/visits/shymarrai/shymarrai"></a> Nerds have come here 🤖
 </p>
 
 <p align="center">
