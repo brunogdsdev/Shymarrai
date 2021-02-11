@@ -27,8 +27,48 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shymarrai&show_icons=true&count_private=true&theme=dark" alt="brunogomes"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=shymarrai&show_icons=true&count_private=true&theme=merko" alt="brunogomes"/> 
 </p>
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shymarrai&langs_count=8&theme=merko)](https://github.com/shymarrai/github-readme-stats)
+
 
 ## Education
 
