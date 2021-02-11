@@ -46,7 +46,7 @@
 📆 2017 - Moment\
 
 <h3> Technologies that I've worked on</h3>
-📍 **Web** - 
+📍 **Web** -
 <br/>
 <b>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">&nbsp;
@@ -69,6 +69,7 @@
 &nbsp;
 </b>
 <br/>
+<br/>
 📍 **Projects Individuals** - 
 <br/>
 <b>
@@ -84,6 +85,7 @@
 &nbsp;
 </b>
 <br/>
+<br/>
 📍 **Programming** -
 <br/>
 <b>
@@ -93,7 +95,8 @@
 &nbsp;
 </b>
 <br/>
-📍 **Office Assitant** - 
+<br/>
+📍 **Office Assitant** -
 <br/>
 <b>
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Office">&nbsp;
