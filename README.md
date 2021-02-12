@@ -74,11 +74,11 @@
 
 - 📖 **information systems**\
 📆 2020 - 2021\
-📍 **University Veiga de Almeida** - Rio de Janeiro, Brazil
+👨‍💻 **University Veiga de Almeida** - Rio de Janeiro, Brazil
 
 - 📖 **Web Developer**\
 📆 2017 - 2019\
-📍 **Senac** - Rio de Janeiro, Brazil
+👨‍💻 **Senac** - Rio de Janeiro, Brazil
 
 ## Experience
 
@@ -86,7 +86,7 @@
 📆 2017 - Moment\
 
 <h3> Technologies that I've worked on</h3>
-📍 **Web** -
+👨‍💻 **Web** -
 <br/>
 <b>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">&nbsp;
@@ -110,7 +110,7 @@
 </b>
 <br/>
 <br/>
-📍 **Projects Individuals** - 
+👨‍💻 **Projects Individuals** - 
 <br/>
 <b>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">&nbsp;
@@ -126,7 +126,7 @@
 </b>
 <br/>
 <br/>
-📍 **Programming** -
+👨‍💻 **Programming** -
 <br/>
 <b>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">&nbsp;
@@ -136,7 +136,7 @@
 </b>
 <br/>
 <br/>
-📍 **Office Assitant** -
+👨‍💻 **Office Assitant** -
 <br/>
 <b>
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Office">&nbsp;
