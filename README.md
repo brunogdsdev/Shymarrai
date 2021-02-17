@@ -81,9 +81,9 @@
 👨‍💻 **Senac** - Rio de Janeiro, Brazil
 
 
-- 📖 **CS 50 - 2020**\
-📆 2017 - 2019\
-👨‍💻 **Harvard - EDX Online** - Rio de Janeiro, Brazil
+- 📖 **CS50 - Harvard**\
+📆 - 2020
+👨‍💻 **Harvardx Online** - Rio de Janeiro, Brazil
 
 ## Experience
 
