@@ -150,7 +150,6 @@
   <a href="https://www.sololearn.com/users/profile/4191755" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="brunogomes" height="20" width="20" /></a>
 <a href="https://codepen.io/shymarrai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="brunogomes" height="20" width="20" /></a>
 <a href="https://twitter.com/caracabronu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="brunogomes" height="20" width="20" /></a>
-<a href="https://www.facebook.com/icestone.bruno/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="brunogomes" height="20" width="20" /></a>
 </p>
 
 
