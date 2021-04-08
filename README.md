@@ -70,6 +70,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shymarrai&langs_count=8&theme=highcontrast)](https://github.com/shymarrai/github-readme-stats)
 ## Education
 
+- 📖 **Desenvolvimento Web - Curso Programador BR**\
+📆 - 2021
+👨‍💻 **HotmartClub Online** - Rio de Janeiro, Brazil
+
+- 📖 **CS50 - Harvard**\
+📆 - 2020
+👨‍💻 **Harvardx Online** - Rio de Janeiro, Brazil
+
 - 📖 **information systems**\
 📆 2020 - 2021\
 👨‍💻 **University Veiga de Almeida** - Rio de Janeiro, Brazil
@@ -77,15 +85,6 @@
 - 📖 **Web Developer**\
 📆 2017 - 2019\
 👨‍💻 **Senac** - Rio de Janeiro, Brazil
-
-
-- 📖 **CS50 - Harvard**\
-📆 - 2020
-👨‍💻 **Harvardx Online** - Rio de Janeiro, Brazil
-
-- 📖 **Desenvolvimento Web - Curso Programador BR**\
-📆 - 2021
-👨‍💻 **HotmartClub Online** - Rio de Janeiro, Brazil
 
 ## Experience
 
