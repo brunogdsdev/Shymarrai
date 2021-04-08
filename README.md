@@ -91,7 +91,7 @@
 <h3> Technologies that I've worked on</h3>
 👨‍💻 **Web** -
 
-https://www.codewars.com/users/shymarrai/badges/large
+<img src="https://www.codewars.com/users/shymarrai/badges/large alt="CodeWars">
 
 <br/>
 <b>
