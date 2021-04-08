@@ -153,8 +153,7 @@
 </p>
 
 
-
-- 📖 **My Level in CodeWars**\
 <p align="center">
+- 📖 **My Level in CodeWars**\
 <img src="https://www.codewars.com/users/shymarrai/badges/large" alt="CodeWars">
 </p>
