@@ -152,4 +152,9 @@
 <a href="https://twitter.com/caracabronu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="brunogomes" height="20" width="20" /></a>
 </p>
 
+
+
+- 📖 **My Level in CodeWars**\
+<p align="center">
 <img src="https://www.codewars.com/users/shymarrai/badges/large" alt="CodeWars">
+</p>
