@@ -91,8 +91,6 @@
 <h3> Technologies that I've worked on</h3>
 👨‍💻 **Web** -
 
-<img src="https://www.codewars.com/users/shymarrai/badges/large" alt="CodeWars">
-
 <br/>
 <b>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">&nbsp;
@@ -154,4 +152,4 @@
 <a href="https://twitter.com/caracabronu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="brunogomes" height="20" width="20" /></a>
 </p>
 
-
+<img src="https://www.codewars.com/users/shymarrai/badges/large" alt="CodeWars">
