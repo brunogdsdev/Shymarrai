@@ -83,6 +83,10 @@
 📆 - 2020
 👨‍💻 **Harvardx Online** - Rio de Janeiro, Brazil
 
+- 📖 **Desenvolvimento Web - Curso Programador BR**\
+📆 - 2021
+👨‍💻 **HotmartClub Online** - Rio de Janeiro, Brazil
+
 ## Experience
 
 - 👨‍💻 **Developer**\
