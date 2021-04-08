@@ -153,9 +153,9 @@
 </p>
 
 
-<p align="center">
+<h3 align="center">
 - 📖 **My Level in CodeWars**\
-</p>
+</h3>
 <p align="center">
 <img src="https://www.codewars.com/users/shymarrai/badges/large" alt="CodeWars">
 </p>
