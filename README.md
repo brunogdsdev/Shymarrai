@@ -30,7 +30,7 @@ My Level in CodeWars
 <img src="https://www.codewars.com/users/shymarrai/badges/large" alt="CodeWars">
 </p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shymarrai)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shymarrai&layout=compact&hide=php,java)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Education
 
