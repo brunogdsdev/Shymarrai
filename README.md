@@ -30,7 +30,7 @@ My Level in CodeWars
 <img src="https://www.codewars.com/users/shymarrai/badges/large" alt="CodeWars">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shymarrai&layout=compact&hide=php,java)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shymarrai&layout=compact&hide=php,java&langs_count=8&custom_title=My_Languages&card_width=800&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Education
 
