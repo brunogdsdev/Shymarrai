@@ -1,12 +1,8 @@
 <h1 align="center">Hi dear, I'm Bruno Gomes 🤖</h1>
 <h3 align="center">A Web Developer focused on Front End</h3>
+<img src"https://toppng.com/uploads/preview/web-development-icon-png-clipart-website-development-web-dev-icon-11562967383vhxlfmnerz.png" alt='icon'>
 
-- 🤑 I’m currently working on Ellca Locações e Serviços
-- 😎I’m currently learning HYML, CSS, JavaScript, but JavaScript, React.Native and React.JS my focus
-- 🤓 I’m looking to collaborate Quizlee from CS50 - Harvardx 2021, Project Final by Introduction Computer Science
-- 🧐 I’m looking for help with JavaScript, Flask and Python
-
-My Behance: https://www.behance.net/brunofernando6
+<p align='center'>My Behance: https://www.behance.net/brunofernando6</p>
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/bruno-gomes-code/" target="_blank">
@@ -28,47 +24,6 @@ My Behance: https://www.behance.net/brunofernando6
   <a href="#"><img src="https://badges.pufler.dev/visits/shymarrai/shymarrai"></a> Nerds have come here 
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shymarrai&show_icons=true&count_private=true&theme=highcontrast" alt="brunogomes"/> 
-</p>
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shymarrai&langs_count=8&theme=highcontrast)](https://github.com/shymarrai/github-readme-stats)
 ## Education
 
