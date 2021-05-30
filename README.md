@@ -1,20 +1,20 @@
-<h1 align="center">Hi dear, I'm Bruno Gomes 🤖</h1>
+<img src="https://icon-library.com/images/dev-icon/dev-icon-6.jpg" width='70px' alt='icon'> <h1 align="center">Hi dear, I'm Bruno Gomes 🤖</h1>
 <h3 align="center">A Web Developer focused on Front End</h3>
-<img src"https://toppng.com/uploads/preview/web-development-icon-png-clipart-website-development-web-dev-icon-11562967383vhxlfmnerz.png" alt='icon'>
+<br/>
 
-<p align='center'>My Behance: https://www.behance.net/brunofernando6</p>
+<p align='center'>
+  <a align='center' href='https://www.behance.net/brunofernando6'>
+    <img src='https://pt.apkshki.com/storage/6834/icon_5f735a6eef4fc_6834.png' width='50px' alt='bhance'>
+  </a>
+</p>
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/bruno-gomes-code/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;
-&nbsp;
 <a href="https://www.instagram.com/brunofernandog/" target="_blank">
 <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-&nbsp;
-&nbsp;
 <a href="mailto:icestonebruno@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -23,8 +23,15 @@
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/shymarrai/shymarrai"></a> Nerds have come here 
 </p>
+<h3 align="center">
+My Level in CodeWars
+</h3>
+<p align="center">
+<img src="https://www.codewars.com/users/shymarrai/badges/large" alt="CodeWars">
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shymarrai&langs_count=8&theme=highcontrast)](https://github.com/shymarrai/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shymarrai)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Education
 
 - 📖 **Desenvolvimento Web - Curso Programador BR**\
@@ -113,9 +120,4 @@
 </p>
 
 
-<h3 align="center">
-My Level in CodeWars
-</h3>
-<p align="center">
-<img src="https://www.codewars.com/users/shymarrai/badges/large" alt="CodeWars">
-</p>
+
