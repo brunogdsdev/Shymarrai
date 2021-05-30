@@ -1,37 +1,29 @@
 <img src="https://icon-library.com/images/dev-icon/dev-icon-6.jpg" width='70px' alt='icon'> <h1 align="center">Hi dear, I'm Bruno Gomes 🤖</h1>
+
 <h3 align="center">A Web Developer focused on Front End</h3>
 <br/>
 
-<p align='center'>
-  <a align='center' href='https://www.behance.net/brunofernando6'>
-    <img src='https://pt.apkshki.com/storage/6834/icon_5f735a6eef4fc_6834.png' width='50px' alt='bhance'>
-  </a>
-</p>
 
-<p align='center'>
-<a href="https://www.linkedin.com/in/bruno-gomes-code/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/brunofernandog/" target="_blank">
-<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:icestonebruno@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
+<br/>
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/shymarrai/shymarrai"></a> Nerds have come here 
 </p>
+<br/>
 <h3 align="center">
 My Level in CodeWars
 </h3>
 <p align="center">
 <img src="https://www.codewars.com/users/shymarrai/badges/large" alt="CodeWars">
 </p>
+<br/>
+<img src='https://joyofcoding.org/2020/img/logo-text.png' align='right' width='300px' >
+<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shymarrai&layout=compact&hide=php,java&langs_count=8&custom_title=My_Languages&card_width=800&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shymarrai&layout=compact&hide=php,java&langs_count=8&custom_title=My_Languages&card_width=550&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+<br/>
 ## Education
 
 - 📖 **Desenvolvimento Web - Curso Programador BR**\
@@ -112,6 +104,31 @@ My Level in CodeWars
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Office">&nbsp;
 &nbsp;
 </b>
+
+
+<p align='center'>
+
+<a align='center' href='https://www.behance.net/brunofernando6'>
+  <img src='https://pt.apkshki.com/storage/6834/icon_5f735a6eef4fc_6834.png' width='30px'  alt='behance'>
+</a>
+
+<a align='center' href='mailto:icestonebruno@gmail.com'>
+  <img src='https://w7.pngwing.com/pngs/817/967/png-transparent-gmail-logo-gmail-email-icon-logo-gmail-logo-angle-text-rectangle.png'  width='33px'  alt='gmail'>
+</a>
+
+<a align='center' href='https://www.linkedin.com/in/bruno-gomes-code/'>
+  <img src='https://image.flaticon.com/icons/png/512/174/174857.png' width='30px'  alt='linedin'>
+</a>
+
+<a align='center' href='https://www.instagram.com/brunofernandog/' target='__blank'>
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png' width='30px'  alt='instagram'>
+</a>
+</p>
+
+
+
+
+
 
 <p align="center">
   <a href="https://www.sololearn.com/users/profile/4191755" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="brunogomes" height="20" width="20" /></a>
