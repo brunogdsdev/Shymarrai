@@ -24,6 +24,7 @@ My Level in CodeWars
 
 <br/>
 <br/>
+
 ## Education
 
 - 📖 **Desenvolvimento Web - Curso Programador BR**\
