@@ -128,13 +128,7 @@ My Level in CodeWars
 <a align='center' href='https://www.linkedin.com/in/bruno-gomes-code/'>
   <img src='https://image.flaticon.com/icons/png/512/174/174857.png' width='30px'  alt='linedin'>
 </a>
-
-<a align='center' href='https://www.instagram.com/brunofernandog/' target='__blank'>
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png' width='30px'  alt='instagram'>
-</a>
 </p>
-
-
 
 
 
