@@ -49,7 +49,7 @@ My Level in CodeWars
 📆 2017 - Moment\
 
 <h3> Technologies that I've worked on</h3>
-👨‍💻 **Web** -
+👨‍💻 **Working** -
 
 <br/>
 <b>
