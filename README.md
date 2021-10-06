@@ -43,11 +43,6 @@ My Level in CodeWars
 📆 2017 - 2019\
 👨‍💻 **Senac** - Rio de Janeiro, Brazil
 
-## Experience
-
-- 👨‍💻 **Developer**\
-📆 2017 - Moment\
-
 <h3> Technologies that I've worked on</h3>
 👨‍💻 **Working** -
 
