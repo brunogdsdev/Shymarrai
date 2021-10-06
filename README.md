@@ -130,13 +130,3 @@ My Level in CodeWars
   <img src='https://image.flaticon.com/icons/png/512/174/174857.png' width='30px'  alt='linedin'>
 </a>
 </p>
-
-
-
-
-<p align="center">
-  <a href="https://www.sololearn.com/users/profile/4191755" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="brunogomes" height="20" width="20" /></a>
-</p>
-
-
-
