@@ -93,8 +93,6 @@ My Level in CodeWars
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">&nbsp;
  &nbsp;
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">&nbsp;
-  &nbsp;
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">&nbsp;
 </b>
 <br/>
 <br/>
