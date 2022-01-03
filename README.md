@@ -26,6 +26,9 @@ My Level in CodeWars
 <br/>
 
 ## Education
+- 📖 **React Native - Rocketseat**\
+📆 2021 - 2022
+👨‍💻 **HotmartClub Online** - Rio de Janeiro, Brazil
 
 - 📖 **Desenvolvimento Web - Curso Programador BR**\
 📆 - 2021
