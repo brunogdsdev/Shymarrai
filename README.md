@@ -20,7 +20,7 @@ My Level in CodeWars
 <br/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shymarrai&layout=compact&hide=php,java,yacc,ejs,&langs_count=8&custom_title=My_Languages&card_width=470&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shymarrai&layout=compact&hide=php,java,yacc,ejs,c&langs_count=8&custom_title=My_Languages&card_width=470&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 <br/>
