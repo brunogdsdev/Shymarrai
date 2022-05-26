@@ -38,7 +38,7 @@ My Level in CodeWars
 📆 - 2020
 👨‍💻 **Harvardx Online** - Rio de Janeiro, Brazil
 
-- 📖 **information systems**\
+- 📖 **S.I**\
 📆 2020 - 2021\
 👨‍💻 **University Veiga de Almeida** - Rio de Janeiro, Brazil
 
