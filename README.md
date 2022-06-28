@@ -3,12 +3,6 @@
 <h3 align="center">A Web Developer focused on Front End</h3>
 <br/>
 
-
-<br/>
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/shymarrai/shymarrai"></a> Nerds have come here 
-</p>
-<br/>
 <h3 align="center">
 My Level in CodeWars
 </h3>
