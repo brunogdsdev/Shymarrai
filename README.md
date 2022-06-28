@@ -98,19 +98,3 @@
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Office">&nbsp;
 &nbsp;
 </b>
-
-
-<p align='center'>
-
-<a align='center' href='https://www.behance.net/brunofernando6'>
-  <img src='https://pt.apkshki.com/storage/6834/icon_5f735a6eef4fc_6834.png' width='30px'  alt='behance'>
-</a>
-
-<a align='center' href='mailto:icestonebruno@gmail.com'>
-  <img src='https://w7.pngwing.com/pngs/817/967/png-transparent-gmail-logo-gmail-email-icon-logo-gmail-logo-angle-text-rectangle.png'  width='35px'  alt='gmail'>
-</a>
-
-<a align='center' href='https://www.linkedin.com/in/bruno-gomes-code/'>
-  <img src='https://image.flaticon.com/icons/png/512/174/174857.png' width='30px'  alt='linedin'>
-</a>
-</p>
