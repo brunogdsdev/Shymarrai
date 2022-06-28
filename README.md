@@ -3,17 +3,6 @@
 <h3 align="center">A Web Developer focused on Front End</h3>
 <br/>
 
-<h3 align="center">
-My Level in CodeWars
-</h3>
-<p align="center">
-<img src="https://www.codewars.com/users/shymarrai/badges/large" alt="CodeWars">
-</p>
-<br/>
-<img src='https://joyofcoding.org/2020/img/logo-text.png' align='right' width='300px' >
-<br/>
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shymarrai&layout=compact&hide=php,java,yacc,ejs,c,scss,hack,starlark,objective-c,ruby,handlebars,shell,makefile,dockerfile,swift&langs_count=8&custom_title=My_Languages&card_width=470&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
