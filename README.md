@@ -1,4 +1,4 @@
-<img src="https://icon-library.com/images/dev-icon/dev-icon-6.jpg" width='70px' alt='icon'> <h1 align="center">Hi dear, I'm Bruno Gomes 🤖</h1>
+<img src="https://icon-library.com/images/dev-icon/dev-icon-6.jpg" width='70px' alt='icon'> <h1 align="center">Hi, I'm Bruno Gomes 🤖</h1>
 
 <h3 align="center">A Web Developer focused on Front End</h3>
 <br/>
