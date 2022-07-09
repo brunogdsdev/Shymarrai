@@ -44,8 +44,6 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">&nbsp;
 &nbsp;
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">&nbsp;
-&nbsp;
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="MarkDown">&nbsp;
 &nbsp;
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">&nbsp;
@@ -65,8 +63,15 @@
 <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" alt="Socket.io">&nbsp;
  &nbsp;
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS">&nbsp;  
+  &nbsp;
+<img src="https://img.shields.io/badge/tailwind-CC6699?style=for-the-badge&logo=tailwind&logoColor=white" alt="Tailwind">&nbsp;  
  &nbsp;
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="JQuery">&nbsp;
+ &nbsp;
+<img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQl">&nbsp;
+  &nbsp;
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">&nbsp;
+ 
   
 </b>
 <br/>
