@@ -11,7 +11,7 @@
 <br/>
 
 ## Education
-- 📖 **React Native - Rocketseat**\
+- 📖 **ReactJs/React Native - Rocketseat**\
 📆 2021 - 2022
 👨‍💻 **Rocketseat** - Rio de Janeiro, Brazil
 
