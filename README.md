@@ -85,19 +85,4 @@
 </b>
 <br/>
 <br/>
-👨‍💻 **More** -
-<br/>
-<b>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">&nbsp;
-&nbsp;
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">&nbsp;
-&nbsp;
-</b>
-<br/>
-<br/>
-👨‍💻 **Office Assitant** -
-<br/>
-<b>
-<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Office">&nbsp;
-&nbsp;
-</b>
+
