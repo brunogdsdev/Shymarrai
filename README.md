@@ -24,7 +24,7 @@
 👨‍💻 **Harvardx Online** - Rio de Janeiro, Brazil
 
 - 📖 **S.I**\
-📆 2020 - 2021\
+📆 2020 - 2024\
 👨‍💻 **University Veiga de Almeida** - Rio de Janeiro, Brazil
 
 - 📖 **Web Developer**\
