@@ -32,7 +32,7 @@
 👨‍💻 **Senac** - Rio de Janeiro, Brazil
 
 <h3> Technologies that I've worked on</h3>
-👨‍💻 **Working** -
+👨‍💻 *Working* -
 
 <br/>
 <b>
@@ -74,7 +74,7 @@
 </b>
 <br/>
 <br/>
-👨‍💻 **Learning** - 
+👨‍💻 *Learning* - 
 <br/>
 <b>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">&nbsp;
