@@ -1,6 +1,6 @@
 <img src="https://icon-library.com/images/dev-icon/dev-icon-6.jpg" width='70px' alt='icon'> <h1 align="center">Hi, I'm Bruno Gomes 🤖</h1>
 
-<h3 align="center">A Web Developer focused on Front End</h3>
+<h3 align="center">A Web Developer focused on Front End and mobile apps</h3>
 <br/>
 <img src='https://joyofcoding.org/2020/img/logo-text.png' align='right' width='300px' >
 <br/>
