@@ -2,10 +2,19 @@
 
 <h3 align="center">A Web Developer focused on Front End and mobile apps</h3>
 <br/>
-<img src='https://joyofcoding.org/2020/img/logo-text.png' align='right' width='300px' >
-<br/>
+<table border="0" align="center">
+ <tr>
+  <td align="center">
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shymarrai&theme=holi-theme&hide_border=true" alt="GitHub Streak" /></a>
+  </td>
+ </tr>
+ <tr>
+  <td align="center">
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shymarrai&layout=compact&hide=php,java,yacc,ejs,c,scss,hack,starlark,objective-c,ruby,handlebars,shell,makefile,dockerfile,swift&langs_count=8&custom_title=My_Languages&card_width=470&theme=blue-green" alt="Top Languages" /></a>
+  </td>
+ </tr>
+</table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shymarrai&layout=compact&hide=php,java,yacc,ejs,c,scss,hack,starlark,objective-c,ruby,handlebars,shell,makefile,dockerfile,swift&langs_count=8&custom_title=My_Languages&card_width=470&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 <br/>
